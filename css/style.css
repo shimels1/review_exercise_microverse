@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Barlow:wght@100;300;400;500;600;700;800&family=Merriweather:wght@400;700&family=Noto+Sans:wght@300;500&family=Playfair+Display:wght@400;500;600&family=Poppins:wght@200&family=Roboto:wght@400;500;700&family=Rubik:wght@400;500;600&family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
+
+*{
+  text-align: center;
+  font-family: Poppins;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img{
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  margin: 0 auto;
+}
+#img-div{
+ width: 100vw;
+  margin: 50px 0;
+}
+h1{
+  font-size: 60px;
+  margin-bottom: 15px;
+}
